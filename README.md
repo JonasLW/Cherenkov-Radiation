@@ -1,6 +1,6 @@
 # Cherenkov-Radiation
 
-The purpose of this repository is to plot quantities related to Cherenkov radiation.
+The purpose of this repository is to plot quantities related to Cherenkov radiation.\newline
 The code is spread over four files, two for functions and two for scripting.\
 
 Plotting.py      - Utility functions for the purpose of efficient plotting\
