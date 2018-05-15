@@ -19,13 +19,11 @@ res = 1000
 sphere = False
 n = 1.3                         # Refraction coefficient of medium
 m = 5.11*10**5                  # Particle mass
-v = 0.9#(1/n,1)                 # Particle velocity
+v = 0.9                         # Particle velocity
 w = 6.59                        # Photon frequency (eV)
 chi = ( 0, py.pi )              # Spinor polar angle
 phi = 0                         # Spinor azimuthal angle
 a = py.pi/4                     # Polarization basis parameter (alpha)
-
-print v
 
 if sphere is True:
     res = 300
